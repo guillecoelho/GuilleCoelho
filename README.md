@@ -2,12 +2,6 @@
 <h4>I'm a 19yo Software Engineer Student from Uruguay. <br>
 I took part in several developer conferences, the most recent one, 'Hack4Edu', which our team got the 5th place internacionally.</h4>
 
-<h2>Where can you find me?</h2>
-<p>
-  <a href="https://www.instagram.com/elbodelajusticia/ target="blank"> <img src="https://img.shields.io/badge/-@ElBo-FF4949?style=flat&logo=instagram&logoColor=white" /> </a>
-  <a href="https://twitter.com/ElBoJusticia target="blank"> <img src="https://img.shields.io/badge/-@ElBo-1DA1F2?style=flat&logo=twitter&logoColor=white" /> </a>
-</p>
-
 <h2>Languages I use</h2>
 <p>
   <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-E77250?style=flat&logo=c&logoColor=white"/>
@@ -23,6 +17,14 @@ I took part in several developer conferences, the most recent one, 'Hack4Edu', w
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
+
+<h2>Where can you find me?</h2>
+<p>
+  <a href="https://www.instagram.com/elbodelajusticia/ target="blank"> <img src="https://img.shields.io/badge/-@ElBo-FF4949?style=flat&logo=instagram&logoColor=white" /> </a>
+  <a href="https://twitter.com/ElBoJusticia target="blank"> <img src="https://img.shields.io/badge/-@ElBo-1DA1F2?style=flat&logo=twitter&logoColor=white" /> </a>
+</p>
+
+
 <!--
 **ElBoDeLaJusticia/ElBoDeLaJusticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
