@@ -20,8 +20,9 @@ I took part in several developer conferences, the most recent one, 'Hack4Edu', w
 
 <h2>Where can you find me?</h2>
 <p>
-  <a href="https://www.instagram.com/elbodelajusticia/ target="blank"> <img src="https://img.shields.io/badge/-@ElBo-FF4949?style=flat&logo=instagram&logoColor=white" /> </a>
-  <a href="https://twitter.com/ElBoJusticia target="blank"> <img src="https://img.shields.io/badge/-@ElBo-1DA1F2?style=flat&logo=twitter&logoColor=white" /> </a>
+  <a href="https://www.instagram.com/elbodelajusticia/" target="blank"> <img src="https://img.shields.io/badge/-@ElBo-FF4949?style=flat&logo=instagram&logoColor=white" /> </a>
+  <a href="https://twitter.com/ElBoJusticia" target="blank"> <img src="https://img.shields.io/badge/-@ElBo-1DA1F2?style=flat&logo=twitter&logoColor=white" /> </a>
+  <a href="https://www.youtube.com/channel/UCMoR64BQyglxmRfN6jHvfjw" target="blank"> <img src="https://img.shields.io/badge/-ElBoDeLaJusticia-FF0000?style=flat&logo=youtube&logoColor=white" /> </a>
 </p>
 
 
