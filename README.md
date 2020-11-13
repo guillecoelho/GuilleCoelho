@@ -1,6 +1,22 @@
 <h1>Hello there, I'm ElBo</h1>
-<h4>I'm a 19yo Software Engineer Student from Uruguay. <br>
-I took part in several developer conferences, the most recent one, 'Hack4Edu', which our team got the 5th place internacionally.</h4>
+<h4>I'm a 19yo Software Engineer Student from Uruguay.</h4>
+<h3>🏆 Achievements</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎉 Events</b></td>
+        <td><b>📦 Projects</b></td>
+          <td><b>🏅 Places</b></td>
+    </tr>
+  </thead>
+<tbody>
+            <tr>
+                <td><b>Hack4Edu</b></td>
+                <td><a href="https://github.com/ElBoDeLaJusticia/ClassroomProject"><b>ClassroomProject</b></a></td>
+                <td><b>5th place</b></td>
+            </tr>
+        </tbody>
+    </table>
 
 <h2>Languages I use</h2>
 <p>
