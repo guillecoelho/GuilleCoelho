@@ -9,14 +9,17 @@
           <td><b>🏅 Places</b></td>
     </tr>
   </thead>
-<tbody>
-            <tr>
-                <td><b>Hack4Edu</b></td>
-                <td><a href="https://github.com/ElBoDeLaJusticia/ClassroomProject"><b>ClassroomProject</b></a></td>
-                <td><b>5th place</b></td>
-            </tr>
-        </tbody>
-    </table>
+  <tbody>
+    <tr>
+      <td><b>Hack4Edu</b></td>
+      <td><a href="https://github.com/ElBoDeLaJusticia/ClassroomProject"><b>ClassroomProject</b></a></td>
+      <td><b>5th place</b></td>
+      </tr>
+  </tbody>
+</table>
+
+<h3>💻 Proyects JS</h3>
+<h4>You can find projects made by me <a href="https://github.com/ElBoDeLaJusticia/Proyectos-Javascript"><b>here</b></a></h4>
 
 <h2>Languages I use</h2>
 <p>
