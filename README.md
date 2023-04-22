@@ -1,5 +1,5 @@
 <h1>Hello there, I'm Guille</h1>
-<h4>I'm a 22yo Computer Engineer Student from Uruguay. I'm into Backedn development (Java - Web), open-source and AI/ML. Not so active here but gonna have some interesting stuff going on.</h4>
+<h4>I'm a 22yo Computer Engineer Student from Uruguay. I'm into Backend development (Java - Web), open-source and AI/ML. Not so active here but gonna have some interesting stuff going on.</h4>
 <h3>🏆 Achievements</h3>
 <table>
   <thead align="center">
